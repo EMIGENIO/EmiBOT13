@@ -1,0 +1,7 @@
+{
+    "token": "OTQwMzgxMDkzMDY3MTE2NTc1.YgGkJA._N3fTBgMdmGaUGdnPYW9EGiuxwo",
+    "prefix": "!",
+    "mongodb": "mongodb+srv://EmiBOT:emigenio2020@cluster0.wprsk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "ownerIDS": ["703364312391090317"],
+    "color": "0003FF"
+}
